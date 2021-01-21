@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Trello</string>
+    <string name="image_contentDescription" translatable="false">slika</string>
+    <string name="email">Email</string>
+    <string name="password">Lozinka</string>
+    <string name="name">Ime</string>
+    <string name="sign_in_description_text">Unesite svoje ime, email i lozinku, za prijavu</string>
+    <string name="sign_up_description_text">Unesite svoje ime, email i lozinku, za registraciju</string>
+    <string name="sign_up">PRIJAVA</string>
+    <string name="sign_in">REGISTRACIJA</string>
+    <string name="intro_text_description">Surađujte i planirajte zajedno na više uređaja na Trellovom minimalističkom sučelju.</string>
+    <string name="let_s_get_started_text">Započnimo!</string>
+</resources>
