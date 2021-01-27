@@ -6,6 +6,7 @@
     android:layout_height="match_parent"
     android:background="@drawable/ic_background"
     android:orientation="vertical"
+    android:id="@+id/test"
     tools:context=".SignInActivity">
 
     <androidx.appcompat.widget.Toolbar
