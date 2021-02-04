@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Trello</string>
+    <string name="sign_up">REGISTRACIJA</string>
+    <string name="update">AŽURIRAJ</string>
+    <string name="mobile">Broj mobitela</string>
+    <string name="sign_in_description_text">Unesite svoje ime, e-mail adresu i lozinku da biste se registrirali kod nas.</string>
+    <string name="please_click_back_again_to_exit">Kliknite ponovo za izlaz.</string>
+    <string name="please_wait">Molim pričekajte</string>
+    <string name="nav_my_profile">Moj profil</string>
+    <string name="nav_sign_out">Odjavi se</string>
+    <string name="my_profile">Moj profil</string>
+    <string name="image_contentDescription">slika</string>
+    <string name="create_board_title">Stvori ploču</string>
+    <string name="create">KREIRAJ</string>
+    <string name="board_name">Naziv ploče</string>
+    <string name="let_s_get_started_text">Započnimo</string>
+    <string name="intro_text_description">Surađujte i planirajte zajedno na više uređaja na Trellovom minimalističkom sučelju.</string>
+    <string name="sign_in">PRIJAVA</string>
+    <string name="fab_change_locale_text">Plutajući akcijski gumb za promjenu jezika</string>
+    <string name="sign_up_description_text">Unesite svoje ime, e-mail adresu i lozinku da biste se registrirali kod nas.</string>
+    <string name="name">Ime</string>
+    <string name="password">Lozinka</string>
+    <string name="email">Email</string>
+    <string name="validation_text_name">Molimo unesite ime.</string>
+    <string name="validation_text_email">Molimo unesite email.</string>
+    <string name="validation_text_password">Molimo unesite lozinku.</string>
+    <string name="sign_up_message_text_success">Uspješno ste se registrirali.</string>
+    <string name="message_update_cancelled_text">Otkazano</string>
+    <string name="storage_permission_denied_message_text">Ups, upravo ste odbili dozvolu za pohranu. To možete dopustiti i iz postavki.</string>
+</resources>
